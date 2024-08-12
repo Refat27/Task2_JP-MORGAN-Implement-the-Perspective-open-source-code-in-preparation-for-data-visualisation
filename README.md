@@ -1,0 +1,1 @@
+# Task2_JP-MORGAN-Implement-the-Perspective-open-source-code-in-preparation-for-data-visualisation
